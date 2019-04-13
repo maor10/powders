@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Powders</string>
+    <string name="user_location_not_granted">User location not granted!</string>
 </resources>
